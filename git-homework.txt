@@ -1,3 +1,4 @@
 1. The difference between Git and GitHub is that Git is a system used to track changes locally, while GitHub is a platform for hosting and sharing reps.
 \2. 'git add <file>' adds one specific file, 'git add .' adds all files in the current folder, and 'git add -A' adds all changes including deleted files.
 \3. 'git push' uploads your commits to the remote repository, while 'git pull' downloads and merges changes from the remote repository to your local branch.
+\4. 'git fetch' downloads changes from the remote repository without merging, while 'git pull' downloads and merges those changes.
