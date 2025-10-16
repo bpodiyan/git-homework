@@ -1,0 +1,1 @@
+1. The difference between Git and GitHub is that Git is a system used to track changes locally, while GitHub is a platform for hosting and sharing reps.
